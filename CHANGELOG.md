@@ -14,6 +14,8 @@ We use *breaking :warning:* to mark changes that are not backward compatible (re
 
 ### Added
 
+- [#1](https://github.com/pranavdbnonemu/thanos/pull/1) Thanos Query: add `--block-query-metrics-without-filter` flag to block high-cardinality metric queries without sufficient label filters
+
 ### Changed
 
 ### Removed
